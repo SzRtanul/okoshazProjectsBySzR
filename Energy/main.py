@@ -2,4 +2,5 @@
 import Energy
 
 robot = Energy.Energy()
-robot.main()
+#robot.mentesiCiklus(True)
+robot.program()
